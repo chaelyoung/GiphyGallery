@@ -1,6 +1,7 @@
 body {
     color:black;
-    background: silver;
+    background-image: url("../images/floorboard_fullsize.jpg");
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
 }
 
